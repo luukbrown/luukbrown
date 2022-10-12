@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luuk</h1>
 <h3 align="center">A Front-End React developer</h3>
 
-- 👨‍💻 Check out my portfolio at [www.luukbrown.com](luukbrown.com)
+- 👨‍💻 Check out my portfolio at [[www.luukbrown.com](luukbrown.com)](https://www.luukbrown.com/)
 - 📫 How to reach me **luukbrown@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
