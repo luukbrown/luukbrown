@@ -1,7 +1,6 @@
 <h1 align="center">The name is Luuk Brown</h1>
 <h3 align="center">A Front-end React Developer</h3>
 
-- 👨‍💻 Check out my personal website at https://www.luukbrown.com
 - 📫 How to reach me **luukbrown@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
