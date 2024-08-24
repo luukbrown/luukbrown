@@ -1,5 +1,5 @@
 <h1 align="center">The name is Luuk Brown</h1>
-<h3 align="center">A Front-end React Developer</h3>
+<h3 align="center">A Full-stack Developer</h3>
 
 - 📫 How to reach me **luukbrown@gmail.com**
 
